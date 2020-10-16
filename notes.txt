@@ -1,0 +1,6 @@
+ area. this brings us to the net state in git life cycle.
+  * command to enter staging area - git add filename
+* staging area: the source code files, data files, configuration files and other project artifacts
+  contain the business logic of the application. These files are to be tracked by git are thus needs
+  to be added to the staging area.
+  * In other words, staging area is the pl
